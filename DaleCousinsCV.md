@@ -1,7 +1,6 @@
 # Dale Cousins BSc. (Hons) CISSP 
 
 ## Details
-|  |  |
 | ----------- | ----------- |
 | Name: Dale Cousins | e-mail: dalecousins83@gmail.com |
 | Nationality: British (Australian Citizen) | LinkedIn: www.linkedin.com/in/dalecousins |
