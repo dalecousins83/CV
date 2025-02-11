@@ -25,6 +25,14 @@ I’m highly creative and have a love of innovative technologies. I’m keen to 
  - Built a mission-critical service delivery team from scratch with two engineers - this team has now scaled up to fifteen full-time resources, servicing over 2,500 requests per year.
 
 ## Core Competencies
+|Technical Skills | Professional Skills |
+| ----------- | ----------- |
+| Programming Languages & Scripting: Solidity, JavaScript, HTML/CSS, Python, PowerShell. | Leadership: training, mentoring, product & platform advocacy | 
+| Smart Contract Development: Solidity, libraries (e.g. OpenZeppelin), unit testing (hardhat, mocha & chai), static testing (Slither), fuzzing (Echidna) | Communication: clear & concise messaging, leading workshops and showcases, defining requirements | 
+| Development Methodologies: CI/CD pipelines (Jenkins), Source Control Management | Holistic problem solving: putting symptoms into context, root cause analysis | 
+| Network & Infrastructure Security: protocol & packet inspection, Web Application Firewalls, Next-Gen Firewalls | Compliance frameworks & management: OWASP Top-10, Essential 8, VCGLR WBS | 
+| Automation: Ansible & Ansible Tower, Python, PowerShell | DevOps & CI/CD: AGILE ways of working, pipeline creation, SCM, testing | 
+
 
 ## Professional Experience
 
