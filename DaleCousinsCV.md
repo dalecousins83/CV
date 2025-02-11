@@ -74,3 +74,8 @@ Design and deployment of wired & wireless LAN and security solutions for clients
 
 
 ## Education & Certifications
+ - BSc (Hons.) Intelligent Systems
+ - CISSP
+ - Certified Blockchain Expert
+ - ITIL4 Foundation
+ - CISA Certified Information Systems Auditor (expired)
