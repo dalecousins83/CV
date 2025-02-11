@@ -13,7 +13,7 @@
 
 ## Professional Summary
 
-Experienced technology leader with 15+ years’ experience in infrastructure-as-code services delivered via on-premises, cloud-based and SAAS solutions in both government and enterprise environments.My strengths lie in seeing beyond technical solutions, understanding why, as well as how.
+Experienced technology leader with 15+ years’ experience in infrastructure-as-code services delivered via on-premises, cloud-based and SAAS solutions in both government and enterprise environments. My strengths lie in seeing beyond technical solutions, understanding why, as well as how.
 My background has covered developing, delivering, and securing enterprise solutions. Through my varied roles I’ve experienced being a service provider, as well as an end-user. I’ve led and mentored engineers and architects, created, and optimised, service-delivery processes, and also managed regulatory compliance.
 I’m highly creative and have a love of innovative technologies. I’m keen to turn my attention to blockchain solutions in order to play a role in the large-scale adoption of secure, decentralised applications and platforms.
 
