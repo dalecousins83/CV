@@ -1,13 +1,13 @@
-#Dale Cousins BSc. (Hons) CISSP 
+# Dale Cousins BSc. (Hons) CISSP 
 
-##Details
+## Details
 
-##Professional Summary
+## Professional Summary
 
-##Key Achievements
+## Key Achievements
 
-##Core Competencies
+## Core Competencies
 
-##Professional Experience
+## Professional Experience
 
-##Education & Certifications
+## Education & Certifications
