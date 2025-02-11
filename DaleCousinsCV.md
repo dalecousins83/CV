@@ -40,10 +40,12 @@ I’m highly creative and have a love of innovative technologies. I’m keen to 
 
 Working under the Network Services Director to deliver infrastructure services offered by both internal and external service providers. Focussed on optimisation and automation of these services, as well as ensuring delivery targets are met while maintaining alignment with E8 & OWASP Top-10 best-practices. Other responsibilities include assisting the business with RFP & ITSM processes related to network & infrastructure services. Significant time spent mentoring junior engineers, as well as mid-level engineers looking to step-up towards management roles. Introduced a number of automated processes with a goal of driving the organisation towards infrastructure-as-code & simplified solution architecture.
 
+
 **ANZ Bank – Senior Automation Engineer**
 *January 2019 – November 2020. Melbourne, Australia*
 
 Lead engineer for a small AGILE team, this role involved designing and deploying a data centre network build pipeline with Ansible, GitHub & Jenkins, integrating changes across multiple platforms (switching, app delivery, firewalls), moving the organisation towards a true infrastructure-as-code solution for the DC NXOS fabrics. Creating Splunk dashboards to track device compliance against architecture and security standards, mentoring team members and working closely with the automation product owner to develop offerings to the business. Regular exposure to new Ansible modules, as well as creating custom filter plugins and Jinja2 templates for formatting and storing data in SCM.
+
 
 **Tabcorp – Network Architect**
 *November 2014 – January 2019. Melbourne, Australia*
@@ -51,16 +53,19 @@ Lead engineer for a small AGILE team, this role involved designing and deploying
 Architecting solutions for new technologies such as SDN, SD-WAN and infrastructure-as-code as well as existing technologies such as next-gen firewalls, IPS and app delivery. 
 Providing business benefits across the LAN/WAN, security, data centre and public/private cloud landscapes and ensuring regulatory compliance is maintained. Lead architect for projects including infrastructure automation with Ansible, data centre refreshes, private cloud deployments and public cloud integration. Managing small teams of architect/design/implementation resources, working in a highly regulated environment, managing relationships with external regulatory bodies, ensuring compliance and governance standards are maintained.
 
+
 **O2 Networks – Senior Consultant**
 *September 2011 – November 2014. Melbourne, Australia* 
 
 Acting as a trusted advisor to customers, enabling them to integrate new technologies and also optimise existing environments to maximise ROI and maintain industry best-practices. Delivering projects in the security (firewalls, WAF, IPS & vulnerability scanning), data centre/routing & switching and application delivery fields. 
 Gathering and interpreting requirements from customers, creating & reviewing statements of work/business cases, advising on migration strategies, pre-sales work and acting as an escalation point for project related issues.
 
+
 **Block Solutions – Operations Manager**
 *November 2008 – August 2011. London*
 
 Leading the development of the NOC function to help grow a small Cisco Premier Partner into a renowned Gold Partner. Managing the operations team as well as network & security consulting, and project delivery. Creation of ITIL driven processes, operations frameworks and marketing collateral for products and services. Tender/RFP responses and delivery of solutions in time-sensitive and complex situations.
+
 
 **Capital Support – Project Engineer**
 *June 2007 – October 2008. London*
