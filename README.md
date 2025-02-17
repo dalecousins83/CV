@@ -77,4 +77,4 @@ Design and deployment of wired & wireless LAN and security solutions for clients
  - [CISSP](https://www.credly.com/badges/7ec02ad2-1393-40a2-9839-66cad171ff80/public_url)
  - [Blockchain Council - Certified Blockchain Expert](https://certificates.blockchain-council.org/9131495a-06c9-4b99-8aba-c52d370c7bf0#acc.lThBWFJu) 
  - ITIL4 Foundation
- - CISA Certified Information Systems Auditor (expired)
+ - [CISA Certified Information Systems Auditor (expired)](https://www.credly.com/earner/earned/badge/9b211965-06b0-4035-b2eb-3661c27d507e)
