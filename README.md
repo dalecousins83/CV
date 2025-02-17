@@ -75,7 +75,7 @@ Design and deployment of wired & wireless LAN and security solutions for clients
 
 ## Education & Certifications
  - BSc (Hons.) Intelligent Systems
- - [CISSP] (https://www.credly.com/badges/7ec02ad2-1393-40a2-9839-66cad171ff80/public_url)
- - [Blockchain Council - Certified Blockchain Expert] (https://certificates.blockchain-council.org/9131495a-06c9-4b99-8aba-c52d370c7bf0#acc.lThBWFJu) 
+ - [CISSP](https://www.credly.com/badges/7ec02ad2-1393-40a2-9839-66cad171ff80/public_url)
+ - [Blockchain Council - Certified Blockchain Expert](https://certificates.blockchain-council.org/9131495a-06c9-4b99-8aba-c52d370c7bf0#acc.lThBWFJu) 
  - ITIL4 Foundation
  - CISA Certified Information Systems Auditor (expired)
